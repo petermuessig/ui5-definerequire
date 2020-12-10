@@ -1,0 +1,6 @@
+<mvc:View controllerName="definerequire.controller.Main" displayBlock="true"
+    xmlns="sap.m" xmlns:mvc="sap.ui.core.mvc">
+
+    <Button text="Hello UI5ers live!" press="doSomething"></Button> 
+
+</mvc:View>

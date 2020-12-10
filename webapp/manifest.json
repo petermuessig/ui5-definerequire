@@ -1,0 +1,21 @@
+{
+    "sap.app": {
+        "id": "definerequire"
+    },
+    "sap.ui5": {
+        "rootView": {
+            "viewName": "definerequire.view.Main",
+            "type": "XML",
+            "async": true
+        },
+        "dependencies": {
+            "libs": {
+                "sap.ui.core": {},
+                "sap.m": {},
+                "sap.ui.codeeditor": {
+                    "lazy": true
+                }
+            }
+        }
+    }
+}
